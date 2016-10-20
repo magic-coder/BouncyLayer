@@ -301,7 +301,7 @@ public class BouncyLayer extends FrameLayout implements SpringListener {
 
         //Rest position will be the initial previous positions for the spring
         //Initially next positions are same as previous positions for the spring
-        mSpringPrevi ousX = mSpringNextX = mBoundSlideRestX = getScrollX();
+        mSpringPreviousX = mSpringNextX = mBoundSlideRestX = getScrollX();
         mSpringPreviousY = mSpringNextY = mBoundSlideRestY = getScrollY();
 
         if(mScreenSide == STICK_TO_LEFT || mScreenSide == STICK_TO_RIGHT){
