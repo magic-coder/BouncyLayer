@@ -1,4 +1,6 @@
 
+## Bouncy Layer
+
 This is an implementation of spring animations on sliding layer in android using facebook rebound library and wunderlist sliding layer library
 
 ## Getting Started
