@@ -15,3 +15,6 @@ Import as a normal android project in android studio, build it and run the mobil
 
 ### Future Revisions
 Some more features will be added in future and currently the project is still in development stage. Keep looking this page for more updates. 
+
+### Screen Records 
+![ScreenShot](https://github.com/nithesh1990/ProjectFiles/blob/master/BouncyLayer.gif)
